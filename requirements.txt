@@ -1,0 +1,4 @@
+pyautogui
+tkinter 
+pillow
+pyinstaller
